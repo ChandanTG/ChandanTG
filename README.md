@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate Full-Stack Developer focused on building scalable and <br>user-friendly web applications. <br>I enjoy turning ideas into real-world solutions using modern web technologies.<br><br>Full Stack web developer | MERN | MySql , MongoDB , PostgreSQL.<br>Frontend: HTML, CSS, JavaScript, EJS, React.<br>Backend: Node.js, Express.js, MVC.<br>Tools: Git, GitHub, Postman.<br>Programing Language: Java.
+I’m a passionate Full-Stack Developer focused on building scalable and <br>user-friendly web applications. <br>I enjoy turning ideas into real-world solutions using modern web technologies.<br><br>Full Stack web developer | MERN | MySql , MongoDB , PostgreSQL.<br>Frontend: HTML, CSS, JavaScript, EJS, React.<br>Backend: Node.js, Express.js, MVC.<br>Tools: Git, GitHub, Postman.<br>Programing Language: Java.<br>DevOps Technologies:Computer Networking,Cloud computing,Advanced DBMS,OOP's concepts.<br>Docker,Kubernuts,CI/CD pipelines,AWS EC2,Jenkins / GitHub Actions,Terraform,Ansible.
 
 
 ## 🌐 Socials:
